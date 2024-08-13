@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "fa22",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-19T14:54:20.293Z",
+      "notes": "Nice",
+      "position": {
+        "lat": "48.84663151613212",
+        "lng": "2.3797097469838624"
+      }
+    },
+    {
+      "id": "e4c3",
+      "cityName": "Montayral",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-23T09:50:34.225Z",
+      "notes": "",
+      "position": {
+        "lat": "44.464222271093746",
+        "lng": "1.0180984724516675"
+      }
+    },
+    {
+      "id": "7ef2",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-08-13T09:47:34.485Z",
+      "notes": "",
+      "position": {
+        "lat": "51.500764088971025",
+        "lng": "-0.15329266050315488"
+      }
+    },
+    {
+      "id": "c09a",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-13T17:02:34.178Z",
+      "notes": "Amazing!",
+      "position": {
+        "lat": "40.43061765459039",
+        "lng": "-3.5799715009360638"
+      }
+    },
+    {
+      "id": "edb0",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-08-13T17:02:49.528Z",
+      "notes": "Wonderful!",
+      "position": {
+        "lat": "52.46896861944041",
+        "lng": "13.517989458281493"
+      }
+    },
+    {
+      "id": "6db0",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-13T17:03:11.208Z",
+      "notes": "Nice",
+      "position": {
+        "lat": "48.82194056824953",
+        "lng": "2.372510580428569"
+      }
+    },
+    {
+      "id": "6a37",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-08-13T17:03:28.057Z",
+      "notes": "Interesting",
+      "position": {
+        "lat": "51.4541548293209",
+        "lng": "-0.1087657481735982"
+      }
+    }
+  ]
+}
